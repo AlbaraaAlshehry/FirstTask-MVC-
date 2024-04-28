@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="wwwroot\Admin\.vs\startbootstrap-sb-admin-gh-pages\v17\DocumentLayout.json" />
+    <Content Include="wwwroot\Admin\.vs\VSWorkspaceState.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Admin\.vs\slnx.sqlite" />
+    <None Include="wwwroot\Admin\.vs\startbootstrap-sb-admin-gh-pages\config\applicationhost.config" />
+    <None Include="wwwroot\Admin\.vs\startbootstrap-sb-admin-gh-pages\FileContentIndex\6d6ba2ec-ac85-4f2b-89c4-cabccfa898c8.vsidx" />
+  </ItemGroup>
+
+</Project>
